@@ -1,0 +1,5 @@
+.venv
+.idea
+__pycache__
+.env
+Cezyo_test_project.iml
